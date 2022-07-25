@@ -7,5 +7,14 @@ Created by Rehan for experimenting Git
 ## Creating a project
 git init
 
+## Checking status
+git status
+
 ## Adding file
 git add .
+
+## Add commit
+git commit -m "message"
+
+## Checking commits
+git  log
