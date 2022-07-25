@@ -18,3 +18,6 @@ git commit -m "message"
 
 ## Checking commits
 git  log
+
+## Adding origin
+git remote add origin https://github.com/rehan2912/MyProject-Office.git
